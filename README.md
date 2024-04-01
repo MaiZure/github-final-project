@@ -1,4 +1,4 @@
-A calculator that calculates simples interest given principal, annual rate of interest, time period in years
+A calculator that calculates simples interest given principal, annual rate of interest, time period in years__
 
 Input: 
   p, principal amount
